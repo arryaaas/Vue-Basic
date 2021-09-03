@@ -1,2 +1,2 @@
 # Vue-Basic
-Practice from Vue Mastery's Intro to Vue 3
+"Intro to Vue 3" from "Vue Mastery's"
