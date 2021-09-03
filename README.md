@@ -1,2 +1,2 @@
 # Vue-Basic
-Practice from Intro Vue Mastery to Vue 3
+Practice from Vue Mastery's Intro to Vue 3
